@@ -54,11 +54,10 @@ body {
     height: 50px;
     border-radius: 50%;
     
-    background: radial-gradient(circle, #000, #ff5e00, #000);
-  
+    background-image: url('https://yt3.googleusercontent.com/Sib3_OCN00kCrY9ESkLFd0lb7TIkBUhWLFE9NXqW-Ci2Svq_P1WoedGMkPuELLKq1ISzLTmJ=s900-c-k-c0x00ffffff-no-rj');
     z-index: 4;
   
-    background-size: 5px 5px;
+    background-size: 100%;
   
     filter: drop-shadow(0 0 8px #682600);
   }
